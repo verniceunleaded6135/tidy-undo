@@ -1,0 +1,6 @@
+# cleaner 스킬의 유일한 서드파티 의존성 2개.
+# extract.py는 pdf만 pypdf로 읽고, docx/pptx/xlsx/hwpx는 zipfile+정규식으로
+# 직접 파싱한다(python-docx·python-pptx 불필요). retitle.py만 pdfplumber를
+# 추가로 쓴다(첫 페이지 글자 크기 기반 제목 추출).
+pypdf>=4.0
+pdfplumber>=0.11

@@ -1,0 +1,21 @@
+# 실행 산출물 — 사용자의 실제 파일 경로가 들어 있다. 절대 커밋하지 않는다.
+_work*/
+_runs/
+_workspace/
+*.jsonl
+plan*.json
+manifest.json
+journal.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+.cleaner.lock
+
+# 소유자의 로컬 하네스 기록 — 사용자 홈 경로가 들어 있다
+CLAUDE.md
